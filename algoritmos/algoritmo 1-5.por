@@ -1,7 +1,7 @@
 programa
 {
 	funcao inicio()
-	{	
+	{
 		// Criando as varoáveis para necessárias para o cálculo
 		inteiro base, altura, area
 
